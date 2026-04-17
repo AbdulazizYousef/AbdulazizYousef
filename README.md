@@ -1,18 +1,46 @@
-# Hey there 👋
+## 👋 Hi, I'm Abdulaziz
 
-I am Abdulaziz, a cyber security undergraduate based in United Kingdom.
+🎓 Cyber Security Undergraduate based in the United Kingdom
 
-I like to build projects related to cyber security and ethical hacking.
+---
 
-I run my personal home lab that runs multiple virtual machines including Windows 10, Ubuntu Linux, Kali Linux and more.
+### 🔐 About Me
 
-I have hands on practical knowladge using tools like SIEM, EDR, NSM, Firewalls and more.
+I am a cyber security student with a strong interest in defensive security (Blue Team) and hands-on technical learning.
+I actively build and test systems in my personal lab to develop real-world security skills.
 
-Looking to apply my skills in a well respected firm/organization
+---
 
-PC specs:
+### 🧪 Home Lab
 
-ASUS Zenbook 14
-Intel Core Unltra 9
-32GB RAM
-1TB SSD
+I maintain a home lab environment using virtualisation to simulate real-world scenarios, including:
+
+* Windows 10
+* Ubuntu Linux
+* Kali Linux
+
+In this lab, I practice system monitoring, threat detection, and basic attack/defence techniques.
+
+---
+
+### 🛠️ Skills & Tools
+
+* SIEM (Security Information and Event Management)
+* EDR (Endpoint Detection & Response)
+* Network Security Monitoring (NSM)
+* Firewalls & basic network defence
+* Virtualisation (VirtualBox)
+
+---
+
+### 🎯 Current Focus
+
+* Strengthening networking fundamentals for SOC roles
+* Improving detection and analysis skills
+* Building practical, documented security projects
+
+---
+
+### 📌 Career Goal
+
+I am seeking opportunities to apply my skills in a professional environment and continue developing as a cyber security analyst.
